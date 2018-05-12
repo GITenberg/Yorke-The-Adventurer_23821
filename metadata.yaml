@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1317
     wikipedia: http://en.wikipedia.org/wiki/George_Lewis_Becke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23821#Yorke-The-Adventurer
 gutenberg_issued: '2008-01-28'
 gutenberg_type: Text
 identifiers:
