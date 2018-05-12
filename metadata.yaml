@@ -1,0 +1,30 @@
+_repo: Yorke-The-Adventurer_23821
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Becke, Louis
+    alias: Becke, George Louis
+    birthdate: 1855
+    deathdate: 1913
+    gutenberg_agent_id: '1317'
+    url: http://www.gutenberg.org/2009/agents/1317
+    wikipedia: http://en.wikipedia.org/wiki/George_Lewis_Becke
+description: ''
+gutenberg_issued: '2008-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23821'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories, Australian'
+- !lcsh 'Pacific Area -- Social life and customs -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Sea stories'
+title: Yorke The Adventurer
+url: http://www.gutenberg.org/ebooks/23821
